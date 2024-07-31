@@ -59,9 +59,12 @@ int main()
 The program uses the sizeof operator to determine and display the size of various data types in bytes. It includes common data types such as int, float, double, char, and others.
 
 ## Output
-### 1.
-### 2.
 
+### 1. 
+![Screenshot 2024-07-31 095722](https://github.com/user-attachments/assets/58db7b5d-4d33-4fb8-a314-7dcd8484a8a4)
+
+### 2.
+![Screenshot 2024-07-31 100102](https://github.com/user-attachments/assets/0c6b4fd9-477d-4e34-96fd-a3c695db4421)
 
 ## Conclusion - 
 This program helps in understanding how much memory is allocated for different data types, which is important for writing efficient and optimized code.

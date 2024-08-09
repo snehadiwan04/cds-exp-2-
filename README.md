@@ -1,11 +1,13 @@
 # Experiment 2
 ## Aim-
 To study and implement C++ program structure(Data Types).
+## Apparatus -
+Online compiler (programiz)
 
 ## Theory-
 Understanding the size of various data types is crucial for memory management and optimization in programming. 
-Different data types (e.g., int,short int,long int,float, double,long double,bool,char) occupy different amounts of memory.
-and checking of size of some data types given by user.
+Different data types (e.g., int, short int, long int, float, double, long double, bool,char) occupy different amounts of memory.
+and checking of size of some data types given by the user.
 ## Code - 
 ### 1.
 ```
@@ -40,7 +42,7 @@ using namespace std;
 int main()
 {
     int a;
-    cout << "enter any interger: ";
+    cout << "enter any integer: ";
     cin >> a;
     cout << "\ninteger = " << a << " and size is " << sizeof(a) << " bytes";
     float b;
